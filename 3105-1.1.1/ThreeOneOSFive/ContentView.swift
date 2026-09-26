@@ -253,7 +253,7 @@ private struct DashboardView: View {
     private var headerPanel: some View {
         ZStack(alignment: .trailing) {
             VStack(alignment: .leading, spacing: 5) {
-                Text("BAIJ STORE")
+                Text("GUSZ XIT")
                     .font(.system(size: 31, weight: .heavy, design: .rounded))
                     .foregroundStyle(accentSoft)
                     .tracking(-1.2)
@@ -351,8 +351,8 @@ private struct DashboardView: View {
     private var contactPanel: some View {
         VStack(spacing: 12) {
             contactButton(title: "Discord", subtitle: "Join my Discord", icon: "bubble.left.fill", tint: accent, url: "https://discord.gg/aBQyPTbpgc")
-            contactButton(title: "WhatsApp", subtitle: "Contact me", icon: "message.fill", tint: accent, url: "https://wa.me/584124788825")
-            contactButton(title: "VELOZxIOS", subtitle: "Developer", icon: "person.fill", tint: accent, url: "https://t.me/VELOZxIOS")
+            contactButton(title: "WhatsApp", subtitle: "Contact me", icon: "message.fill", tint: accent, url: "https://wa.me/+527205573127")
+            contactButton(title: "VELOZxIOS", subtitle: "Developer", icon: "person.fill", tint: accent, url: "https://www.tiktok.com/@pipex.no?_r=1&_t=ZS-99qh2XQ7aoW")
         }
     }
 
